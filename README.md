@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adityak8989/adityak8989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Incoming CS freshman @ KU | Aspiring actuary & data scientist  
+- 💼 Oracle Scholar High School Intern  
+- 📊 Love statistics, AI, and story‑driven games  
+- 🌱 Currently studying for AP Macroeconomics & actuarial Exam P  
+- ✨ Fun fact: Fan of narrative‑driven games and interactive fiction
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityak8989&layout=compact" />
