@@ -3,7 +3,7 @@
 - 🎓 Incoming CS freshman @ KU | Aspiring actuary & data scientist  
 - 💼 Oracle Scholar High School Intern  
 - 📊 Love statistics, AI, and story‑driven games  
-- 🌱 Currently studying for AP Macroeconomics & actuarial Exam P  
+- 🌱 Currently studying for actuarial Exam P  
 - ✨ Fun fact: Fan of narrative‑driven games and interactive fiction
 
 ## 🔧 Tech Stack
