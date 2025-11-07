@@ -1,7 +1,7 @@
 # Hi, I'm Aditya 👋
 
 - 🎓 Incoming CS freshman @ KU | Aspiring actuary & data scientist  
-- 💼 Oracle Scholar High School Intern  
+- 💼 Oracle Scholar 
 - 📊 Love statistics, AI, and story‑driven games  
 - 🌱 Currently studying for actuarial Exam P  
 - ✨ Fun fact: Fan of narrative‑driven games and interactive fiction
