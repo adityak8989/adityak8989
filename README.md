@@ -1,11 +1,6 @@
 # Hi, I'm Aditya 👋
 
-- 🎓 Incoming CS freshman @ KU | Aspiring actuary & data scientist  
-- 💼 Oracle Scholar 
-- 📊 Love statistics, AI, and story‑driven games  
-- 🌱 Currently studying for actuarial Exam P  
-- ✨ Fun fact: Fan of narrative‑driven games and interactive fiction
-
+KU Freshman | CS | 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
